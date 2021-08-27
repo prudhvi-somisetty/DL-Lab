@@ -16,3 +16,6 @@ DEEP LEARNING AND DATA ANALYTICS LABORATORY Experiments (Works better on Google 
     To understand the working of an LSTM cell and how the flow of a text classification is done based on a sentiment data of IMDB reviews dataset.</p>
 <p><h3>7. Build a simple Auto encoder</h3>
     To understand the working of an AutoEncoder while building a simple image reconstruction model using the basic autoencoder architecture</p>
+    <p><h3>7. Build a neural network for clustering</h3>
+    To understand the working of an AutoEncoder with pca while building a clustering model using the basic autoencoder architecture</p>
+
